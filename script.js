@@ -12,5 +12,4 @@ menuIcon.addEventListener("click", () => {
     hamburgerIcon.classList.remove("fa-xmark");
     menuList.style.display = "none"; // Přidali jsme
   }
-  console.log("menuIcon clicked");
 });
